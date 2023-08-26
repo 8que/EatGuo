@@ -6,7 +6,7 @@
 # EatGuo
 
 _ ![N9ZX}8Q9}7{@2)FSK`4)YD6](https://github.com/8que/EatGuo/assets/129237146/e1f45041-dc1c-48ef-9775-b161d85ff8a6)
-网页小游戏 _
+网页小游戏  _
 
 </div>
 
