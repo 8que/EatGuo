@@ -1,4 +1,4 @@
-@@ -1,12 +1,12 @@
+
 <p align="center">
  <a href="https://8que.xyz/EatGuo/"><img src="https://github.com/8que/EatGuo/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatGuo"></a>
 </p>
