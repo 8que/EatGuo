@@ -14,6 +14,8 @@ _ ![N9ZX}8Q9}7{@2)FSK`4)YD6](https://github.com/8que/EatGuo/assets/129237146/e1f
 ## 简介
 
 小游戏：吃掉小果儿
-原(https://xingye.me/game/eatkano/index.php)
+
+
+原码(https://github.com/arcxingye/EatKano))
 |
 [Github Pages](https://arcxingye.github.io/EatKano/index.html)
