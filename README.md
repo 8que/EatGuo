@@ -1,5 +1,5 @@
-<p align="center">
-  <a href="https://8que.xyz/EatGuo/"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+![1772 x 1772](https://github.com/8que/EatGuo/assets/129237146/42676cc3-e321-45b0-97c9-08fd0fcd4f49)<p align="center">
+  <a href="https://8que.xyz/EatGuo/"><img src="https://github.com/8que/EatGuo/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
